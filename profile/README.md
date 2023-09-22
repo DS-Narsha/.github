@@ -1,7 +1,10 @@
+  ![App service introduction](https://github.com/DS-Narsha/.github/assets/79989242/ff66c3fb-e202-4f91-90be-422c79bafcff)
 ## 뭉게뭉게, 뭉치자 투게더!
 
+
 <div align="center">
-  
+	
+
 `#저학년 아동 SNS 교육` `#SNS 플랫폼` <br /> <br />
 SNS를 처음 접하는 저학년 아동에게 개인정보 보호의 중요성과 비속어 사용의 부적절함을 인지하도록 교육하여 <br /> **건강한 SNS 사용을 위해 도움을 주는 서비스**, 뭉게뭉게입니다.
 </div>
