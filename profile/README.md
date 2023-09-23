@@ -17,6 +17,7 @@ SNS를 처음 접하는 저학년 아동에게 개인정보 보호의 중요성�
 > Figma: [Go to Figma Project](https://www.figma.com/file/2bH6wDOg67oEG9LybAwNWi/%ED%95%99%EC%83%9D-%EA%B5%90%EC%9C%A1%EC%9A%A9-SNS-UI?type=design&node-id=0:1&mode=design&t=XOyzlJ3pwKmbQI0p-1) <br />
 > API Docs: [Go to API Docs](https://otcrotcr.notion.site/API-708b9b8ca2094aedbdc7b797c2c0e4c6?pvs=4) <br />
 > ERDCloud: [Go to ERDCloud](https://www.erdcloud.com/d/ctqNWzN7xrpYqEhSs) <br />
+> Project Schedule: [Go to Project Schedule](https://docs.google.com/spreadsheets/d/1CPdutJU0A24J4jl9XgP4OY5n4HvCjVwLwzLinrtzVm0/edit?usp=sharing) 
 
 
 ### Repository
