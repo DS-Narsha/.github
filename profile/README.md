@@ -1,4 +1,4 @@
-  ![App service introduction](https://github.com/DS-Narsha/.github/assets/79989242/ff66c3fb-e202-4f91-90be-422c79bafcff)
+![App service introduction](https://github.com/DS-Narsha/.github/assets/79989242/ff66c3fb-e202-4f91-90be-422c79bafcff)
 ## 뭉게뭉게, 뭉치자 투게더!
 
 
@@ -48,8 +48,7 @@ SNS를 처음 접하는 저학년 아동에게 개인정보 보호의 중요성�
 ## Preview
 
 <div align="center">
-  
-![ezgif com-video-to-gif](https://github.com/DS-Narsha/.github/assets/79989242/25cab478-527f-48e9-a96b-bbae10d92513)
+	<img src="https://github.com/DS-Narsha/.github/assets/79989242/31f54448-eb16-456b-8cd7-9cb50a049b53" />
 </div>
 
 ## Features
