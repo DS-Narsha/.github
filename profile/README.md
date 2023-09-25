@@ -96,12 +96,33 @@ SNS를 처음 접하는 저학년 아동에게 개인정보 보호의 중요성�
 ## Installation
 
 ### Setup
+For building and running the application you need:
+- Node.js 16.17.0
+- Python 3.10.0
+- Npm 8.15.0
 
 ### Client
+```
+$ git clone https://github.com/DS-Narsha/front-end.git
+$ cd narsha_front
+$ nvm install 16.17.0
+$ npm i
+$ npm start:dev
+```
 
 ### Spring boot server
+```
+$ git clone https://github.com/DS-Narsha/back-end.git
+$ cd narsha-back
+```
 
 ### Flask server
+```
+$ git clone https://github.com/DS-Narsha/AI-server.git
+$ cd narsha_ai
+$ pip install -r requirements.txt
+$ python app.py --model narsha_yolo5_model_ysy
+```
 
 
 
