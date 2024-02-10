@@ -14,7 +14,7 @@ SNS를 처음 접하는 저학년 아동에게 개인정보 보호의 중요성�
 ### Introduction
 > 덕성여자대학교 컴퓨터공학전공 개발 소모임 Corner 2023년 제2회 코너 팀 프로젝트 <br />
 > 2023 ICT멘토링 한이음 공모전 출품작 <br />
-> 개발 기간: 2023.02 ~
+> 개발 기간: 2023.02 ~ 2023.11
 
 ### Link
 > Figma: [Go to Figma Project](https://www.figma.com/file/2bH6wDOg67oEG9LybAwNWi/%ED%95%99%EC%83%9D-%EA%B5%90%EC%9C%A1%EC%9A%A9-SNS-UI?type=design&node-id=0:1&mode=design&t=XOyzlJ3pwKmbQI0p-1) <br />
